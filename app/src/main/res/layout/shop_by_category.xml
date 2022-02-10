@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp"
+    android:background="#fafafa">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginRight="10dp">
+
+            <com.mikhaellopez.circularimageview.CircularImageView
+                android:layout_width="500dp"
+                android:layout_height="50dp"
+                android:src="@drawable/user"
+                app:civ_border_color="@color/white"
+                app:civ_border_width="4dp"
+                app:civ_shadow_color="@color/white"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sub Ctegory"
+                android:layout_gravity="center"
+                android:textAlignment="center">
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginRight="10dp">
+
+            <com.mikhaellopez.circularimageview.CircularImageView
+                android:layout_width="500dp"
+                android:layout_height="50dp"
+                android:src="@drawable/user"
+                app:civ_border_color="@color/white"
+                app:civ_border_width="4dp"
+                app:civ_shadow_color="@color/white"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sub Ctegory"
+                android:layout_gravity="center"
+                android:textAlignment="center">
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginRight="10dp">
+
+            <com.mikhaellopez.circularimageview.CircularImageView
+                android:layout_width="500dp"
+                android:layout_height="50dp"
+                android:src="@drawable/user"
+                app:civ_border_color="@color/white"
+                app:civ_border_width="4dp"
+                app:civ_shadow_color="@color/white"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sub Ctegory"
+                android:layout_gravity="center"
+                android:textAlignment="center">
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginRight="10dp">
+
+            <com.mikhaellopez.circularimageview.CircularImageView
+                android:layout_width="500dp"
+                android:layout_height="50dp"
+                android:src="@drawable/user"
+                app:civ_border_color="@color/white"
+                app:civ_border_width="4dp"
+                app:civ_shadow_color="@color/white"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sub Ctegory"
+                android:layout_gravity="center"
+                android:textAlignment="center">
+            </TextView>
+
+        </LinearLayout>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</HorizontalScrollView>
